@@ -1,0 +1,8 @@
+.icon {
+    cursor: pointer;
+    margin-left: 5px; /* Add some spacing between icons */
+    font-size: 1.2em; /* Adjust icon size as needed */
+}
+.view-icon:hover {
+    color: #1a5bfb; /* Change color on hover */
+}
